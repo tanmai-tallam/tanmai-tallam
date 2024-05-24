@@ -6,6 +6,11 @@
 
 🚀 Let's build something amazing together! Feel free to connect and collaborate.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tanmai-tallam) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
 **tanmai-tallam/tanmai-tallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
