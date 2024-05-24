@@ -6,6 +6,14 @@
 
 🚀 Let's build something amazing together! Feel free to connect and collaborate.
 
+## 📊 Stats:
+![Vipul Cariappa's GitHub stats](https://github-readme-stats-alpha-seven-33.vercel.app/api?username=tanmai-tallam&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+
+![Vipul Cariappa's Most Used Languages](https://github-readme-stats-alpha-seven-33.vercel.app/api/top-langs/?username=tanmai-tallam&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css&langs_count=6)
+
+<!-- ![](https://github-readme-stats-alpha-seven-33.vercel.app/api/wakatime?username=Vipul-Cariappa&api_domain=wakapi.vipulcariappa.xyz&langs_count=6&layout=compact) -->
+
+
 <!--
 **tanmai-tallam/tanmai-tallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
